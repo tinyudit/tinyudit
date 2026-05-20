@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm Uditanshu 👋
 
-<!--
-**tinyudit/tinyudit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software that solves real business problems.
 
-Here are some ideas to get you started:
+Currently building SaaS products, automation systems, and experimenting with AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on:
+- SaaS for restaurants & operations
+- Full-stack development
+- Cloud systems & automation
+- AI-powered workflows
+
+
+## 🚀 Currently Building
+
+### Cuizino
+Restaurant-focused SaaS platform with:
+
+- Multi-restaurant management
+- Order management system
+- Analytics dashboard
+- OTP verification
+- AWS deployment
+- Cloud infrastructure
+
+### Other Experiments
+- AI agents & automation
+- Chrome extensions
+- Business workflow systems
+- Scalable SaaS architecture
+
+
+## 🛠 Tech Stack
+
+### Frontend
+React • JavaScript • HTML • CSS
+
+### Backend
+Node.js • Express.js • Java
+
+### Cloud & DevOps
+AWS • Docker • EC2 • Amplify
+
+### Database
+MongoDB
+
+### Exploring
+AI Agents • Automation • Systems Design
+
+
+
+## ⚡ Philosophy
+
+I like building things that solve real-world operational problems.
+
+My focus isn't just writing code —
+it's creating systems that save time, reduce manual work, and scale efficiently.
