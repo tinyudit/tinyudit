@@ -11,7 +11,7 @@ Focused on:
 - AI-powered workflows
 
 
-## 🚀 Currently Building
+##  Currently Building
 
 ### Cuizino
 Restaurant-focused SaaS platform with:
@@ -49,7 +49,7 @@ AI Agents • Automation • Systems Design
 
 
 
-## ⚡ Philosophy
+##  Philosophy
 
 I like building things that solve real-world operational problems.
 
